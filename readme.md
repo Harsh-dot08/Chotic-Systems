@@ -59,19 +59,3 @@ This result confirms that the system settles on a **strange attractor** with a f
 
 ---
 
-## 🚀 Getting Started
-
-### Prerequisites
-* **Python 3.x** (`numpy`, `matplotlib`, `scipy`)
-* **Verilog Simulator** (Vivado, Icarus Verilog, or ModelSim)
-* **LTspice** (XVII or higher)
-
-### Execution
-1.  **Python:** Run `python lorenz_main.py`
-2.  **Verilog:** Compile and simulate the testbench to view the digital trajectory in your waveform viewer.
-3.  **LTspice:** Open the `.asc` file and hit **Run**.
-
----
-
-## 📜 License
-This project is licensed under the MIT License - see the LICENSE file for details.
